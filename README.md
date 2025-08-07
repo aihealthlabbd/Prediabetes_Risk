@@ -16,6 +16,7 @@ Source: Cross-sectional data of 5026 individuals collected from all over Banglad
 **Methodology**
 
 1. Data Preprocessing
+ 
       _Handling missing values_
 
       _Encoding categorical variables_
@@ -23,9 +24,11 @@ Source: Cross-sectional data of 5026 individuals collected from all over Banglad
      _Feature scaling and normalization_
 
 2. Modeling Techniques
+ 
       _Employed several Machine Learning techniques_
 
 3. Model Evaluation
+ 
      _ Metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC_
 
       _Cross-validation_
@@ -34,7 +37,7 @@ Source: Cross-sectional data of 5026 individuals collected from all over Banglad
 
 **Contact**
 
-For questions, collaboration, or feedback, reach out to our Pricipal Investigator (PI)
+For questions, collaboration, or feedback, reach out to our Pricipal Investigator (PI):
 
 Md. Jubayer Hossain 
 
